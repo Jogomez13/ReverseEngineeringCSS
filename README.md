@@ -1,0 +1,2 @@
+# ReverseEngineeringCSS
+Reverse engineering html / css : Objectifs : 1 Etre capable de comprendre et de reproduire un système, uniquement en utilisant ses fonctionnalités. 2 Etre capable de travailler sous contrainte thématique. Pour aller plus loin : Expliquer comment est faite l’animation du menu de navigation.(avancé),Implémenter l’animation du menu de navigation.(expert),Implémenter le caroussel (sans framework).
